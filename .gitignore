@@ -1,0 +1,15 @@
+.gradle
+.settings
+bin
+build
+config
+.classpath
+.editorconfig
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
