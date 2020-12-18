@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ![Build](https://github.com/TheRandomLabs/TRLUtils-Platform/workflows/Build/badge.svg?branch=master)
-[![Dependabot](https://badgen.net/dependabot/TheRandomLabs/TRLUtils-Platform/?icon=dependabot)](https://dependabot.com/)
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/TheRandomLabs/TRLUtils-Platform.svg)](http://isitmaintained.com/project/TheRandomLabs/TRLUtils-Platform "Average time to resolve an issue")
 
